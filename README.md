@@ -1,6 +1,6 @@
-# 🧪 React Testing Library
+# 🧪 React Testing Library Practice
 
-The purpose of these projects was to practice different testing types, such as Unit testing, Integration testing with the `React Testing Library`, and E2E testing using `Cypress`.
+These projects aimed to practice different testing types, such as Unit testing, Integration testing with the `React Testing Library`, and E2E testing using `Cypress`.
 
 ## Technologies used
 
